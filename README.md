@@ -2,5 +2,6 @@
 aici modific 
 in proiectul hello
 ok
-am sters o linie 
+am ..... o linie 
 ok
+vreau sa vad comentarii
